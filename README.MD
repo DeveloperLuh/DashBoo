@@ -3,4 +3,4 @@
 o projeto em si e baseado em uma rede social 
 atualmente sou um desenvolvedor web junior (ainda em evolução) buscando melhorar a cada dia :)
 em breve atualizações
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![DeveloperLuh GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperLuh&show_icons=true&theme=transparent)
